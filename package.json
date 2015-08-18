@@ -1,0 +1,16 @@
+{
+  "name": "react-growing-textarea",
+  "version": "1.0.0",
+  "description": "React component that creates a textarea that increases it's height in order to neatly contain its text content.",
+  "main": "growing-textarea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "textarea",
+    "autosize"
+  ],
+  "author": "Kuba Orlik",
+  "license": "ISC"
+}
