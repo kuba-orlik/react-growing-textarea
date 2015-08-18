@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "jsx growing-textarea.jsx  > growing-textarea.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/groovy354/react-growing-textarea"
+  },
   "keywords": [
     "react",
     "textarea",
